@@ -58,8 +58,7 @@
         <Tab Title="Feed Page" Icon="tab_feed.png">
             <ShellContent Title="Feed"  ContentTemplate="{DataTemplate views:FeedPage}">
                 </ShellContent>
-            <ShellContent Title="News"  ContentTemplate="{DataTemplate views:NewsPage}">
-                </ShellContent>
+           
         </Tab>
         <Tab Title="About Page" Icon="tab_about.png" >
             <ShellContent ContentTemplate="{DataTemplate views:AboutPage}">

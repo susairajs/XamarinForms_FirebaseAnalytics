@@ -13,6 +13,7 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="4.1.0.555618" />  
     <PackageReference Include="Xamarin.Essentials" Version="1.0.1" />
+    <PackageReference Include="Xamarin.Firebase.Core" Version="60.1142.1" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controls\" />

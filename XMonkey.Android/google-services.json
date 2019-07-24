@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850045741794",
+    "firebase_url": "https://xmonkey-d1aab.firebaseio.com",
+    "project_id": "xmonkey-d1aab",
+    "storage_bucket": "xmonkey-d1aab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850045741794:android:981030fb4797c22e",
+        "android_client_info": {
+          "package_name": "com.companyname.xmonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850045741794-jta06snnhkoj7q9dq1om544tkeiefcne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxiQteLT8dHC3HAqxIXmNOY4fS2XE1hp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850045741794-jta06snnhkoj7q9dq1om544tkeiefcne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
