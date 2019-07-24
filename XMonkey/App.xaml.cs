@@ -13,7 +13,9 @@ namespace XMonkey
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
+            //DependencyService.Register<MockDataStore>();
+            Routing.RegisterRoute("aboutPage", typeof(AboutPage));
+            Routing.RegisterRoute("itemsPage", typeof(ItemsPage));
             MainPage = new AppShell();
         }
 
