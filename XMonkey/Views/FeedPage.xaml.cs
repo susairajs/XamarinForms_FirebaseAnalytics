@@ -2,22 +2,23 @@
 using System.Collections.Generic;
 
 using Xamarin.Forms;
+using XMonkey.Interfaces;
 
 namespace XMonkey.Views
 {
     public partial class FeedPage : ContentPage
     {
-        IEventTracker eventTracker;
+        IFirebaseAnalytics eventTracker;
         public FeedPage()
         {
             InitializeComponent();
-            eventTracker = DependencyService.Get<IEventTracker>();  
+            eventTracker = DependencyService.Get<IFirebaseAnalytics>();  
         }
 
-        async void Handle_Clicked(object sender, System.EventArgs e)
+
+        void Handle_Clicked(object sender, System.EventArgs e)
         {
-            eventTracker.SendEvent("Click01");
-            //throw new NotImplementedException();
+            eventTracker.SendEvent("Click1");
         }
     }
 }

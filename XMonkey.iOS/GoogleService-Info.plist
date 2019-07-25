@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>850045741794-tm9sackg42ou1a5vp1u0prn2jvmo9jbf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.850045741794-tm9sackg42ou1a5vp1u0prn2jvmo9jbf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJb3hYBU7Z9dGQ89rfpe4joF6dad1Xoh8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>850045741794</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.companyname.XMonkey</string>
+	<key>PROJECT_ID</key>
+	<string>xmonkey-d1aab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>xmonkey-d1aab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:850045741794:ios:df74d72e7fe0f150</string>
+	<key>DATABASE_URL</key>
+	<string>https://xmonkey-d1aab.firebaseio.com</string>
+</dict>
+</plist>
