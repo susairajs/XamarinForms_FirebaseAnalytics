@@ -1,4 +1,7 @@
 # XamarinForms_FirebaseAnalytics
+
+https://xamarinmonkeys.blogspot.com/2019/07/xamarinforms-working-with-firebase.html
+
 Firebase Analytics in your Xamarin Forms App
 
 ![maxresdefault](https://user-images.githubusercontent.com/22450085/61939122-3207fd00-afb0-11e9-9c49-10c2ad69ae5f.jpg)
